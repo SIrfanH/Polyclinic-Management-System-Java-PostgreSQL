@@ -1,3 +1,7 @@
+nbproject/private/
+build/
+manifest.mf
+
 # Compiled class file
 *.class
 
